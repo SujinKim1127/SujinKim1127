@@ -6,7 +6,7 @@
 <br>
 
 ## Work experience 📚
-- (19.07 - ) 숭실대학교 중앙동아리 YOURSSU 운영팀 <a href="https://https://play.google.com/store/apps/details?id=com.yourssu.ground">
+- (19.07 - ) 숭실대학교 중앙동아리 YOURSSU 운영팀 <a href="https://play.google.com/store/apps/details?id=com.yourssu.ground">
     <img 
         src="http://img.shields.io/badge/-Google Play-brightgreen?style=flat&link=https://play.google.com/store/apps/details?id=com.yourssu.ground"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
