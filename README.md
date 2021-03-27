@@ -12,7 +12,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 - (20.08) 숭실대학교 글로벌미디어학부 해커톤 2등
 - (21.01) 숭실대학교 플렉스매스 창업아카데미 최우수팀 수상
-- (21.02 - ) 팀 프로젝트 : https://github.com/gracurri
+- (21.02 - ) 시간표 프로젝트 : https://github.com/gracurri
 - (21.02 - ) YOURSSU 캐릭터 인스타그램 관리자 : <a href="https://www.instagram.com/yourssu_friends">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/yourssu_friends/"
@@ -24,7 +24,6 @@
 - HTML & CSS
 - Android Studio
 - Unity
-- Unreal
 - Computer Graphic
 
 
