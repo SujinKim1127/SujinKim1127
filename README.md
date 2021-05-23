@@ -2,7 +2,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/su._.jin1127/)](https://www.instagram.com/su._.jin1127/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/1127sujink)](https://blog.naver.com/1127sujink)
-
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@ezidayzi)](https://velog.io/@su_jin1127)
 <br>
 
 ## Work experience 📚
@@ -26,7 +26,7 @@
 - Unity
 - Computer Graphic
 
-
+![SujinKim1127's github stats](https://github-readme-stats.vercel.app/api?username=SujinKim1127&show_icons=true)
 
 
 <!--
