@@ -1,8 +1,9 @@
 # 수진 👩‍💻
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/su._.jin1127/)](https://www.instagram.com/su._.jin1127/) 
+<a href="https://velog.io/@su_jin1127" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/1127sujink)](https://blog.naver.com/1127sujink)
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@ezidayzi)](https://velog.io/@su_jin1127)
 <br>
 
 ## Work experience 📚
