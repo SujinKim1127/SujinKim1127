@@ -2,7 +2,6 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/su._.jin1127/)](https://www.instagram.com/su._.jin1127/) 
 <a href="https://velog.io/@su_jin1127" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://windy-museum-13d.notion.site/Note-45cf6fbf78464b768bf7e8c4936a5445" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/></a>
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/1127sujink)](https://blog.naver.com/1127sujink)
 <br>
 
@@ -13,12 +12,12 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 - (20.08) 숭실대학교 글로벌미디어학부 해커톤 2등
 - (21.01) 숭실대학교 플렉스매스 창업아카데미 최우수팀 수상
-- (21.02 - ) 시간표 프로젝트 : https://github.com/gracurri
+- (21.02 - 21.09) 시간표 프로젝트 : https://github.com/gracurri
 - (21.02 - 21.09) YOURSSU 캐릭터 인스타그램 관리자 : <a href="https://www.instagram.com/yourssu_friends">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/yourssu_friends/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+- (22.09 - ) GDSC Soongsil Web/Mobile part member
 
 
 ## 🛠 Stack
