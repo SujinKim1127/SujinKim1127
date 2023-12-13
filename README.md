@@ -2,7 +2,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/su._.jin1127/)](https://www.instagram.com/su._.jin1127/) 
 <a href="https://velog.io/@su_jin1127" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSujinKim1127&count_bg=%233D9EC8&title_bg=%23DDA25A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📚 Work experience 
 - (19.07 - 21.09) 숭실대학교 중앙동아리 YOURSSU 운영팀 <a href="https://play.google.com/store/apps/details?id=com.yourssu.ground">
@@ -26,7 +26,8 @@
 - (23.07 - ) [FE] GDSC Festival Project 숭실대 도서관 세미나실 예약 서비스 - 슈도비
 - (23.09) [FE] Kustitms X HDMedi Corporate Prjoect
 - (23.09 - ) GDSC Soongsil Core Member
-- (23.10) [FE] Kusitms 28기 해커톤 - 모서리 
+- (23.10) [FE] Kusitms 28기 해커톤 - 모서리
+- (23.09 - 11) [FE] Kusitms 28기 밋업 - 제대로
 
 
 ## 🛠 Stack
