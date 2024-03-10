@@ -16,18 +16,20 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/yourssu_friends/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-- (22.09 - 23.09) GDSC Soongsil Web/Mobile part member
+- (22.09 - 23.09) GDSC Soongsil 2기 Web/Mobile part member
 - (22.09 - 23.06) [FE] 대학생을 위한 행사 정보 공유 사이트 `끼리끼리`: http://kiriuniv.com/
 - (22.12 - 23.01) [FE] stackoverflow 클론 코딩
 - (23.01 - 23.02) [FE] 반려동물과 함께라면 어디든 갈 수 있는 [PAWPAW](https://pawpaw.fun)
 - (23.03 - ) [FE/BE] 마루 산책 기록 웹사이트 [walk with 마루](https://SujinKim1127.github.io/walkwithmaru)
-- (23.05 - ) [FE] 숭실대 커뮤니티 "다잇슈" 공지사항 · 구독 팀 / FrontEnd 팀장
+- (23.05 - ) [FE] 숭실대 커뮤니티 "[다잇슈](https://www.daitssu.com/)" 공지사항 · 구독 팀 / FrontEnd 팀장
 - (23.07 - 23.08) [FE] 서울 우먼 테크 해커톤 최우수상 수상 - 빗물받이 청소 커뮤니티: [두데이](https://doday-nu.vercel.app/)
-- (23.07 - ) [FE] GDSC Festival Project 숭실대 도서관 세미나실 예약 서비스 - 슈도비
+- (23.07 - ) [FE] GDSC Festival Project 숭실대 도서관 세미나실 예약 서비스 - [슈도비](https://ssudobi.web.app/landing/)
 - (23.09) [FE] Kustitms X HDMedi Corporate Prjoect
-- (23.09 - ) GDSC Soongsil Core Member
-- (23.10) [FE] Kusitms 28기 해커톤 - 모서리
-- (23.09 - 11) [FE] Kusitms 28기 밋업 - 제대로
+- (23.09 - ) GDSC Soongsil 3기 Core Member
+- (23.10) [FE] Kusitms 28기 해커톤 - [모서리](https://mosori.vercel.app/)
+- (23.09 - 11) [FE] Kusitms 28기 밋업 - [제대로](https://jedero.site/)
+- (24.01) [FE] GDSC 연합 해커톤 <눈꽃톤> - [Tumblog](https://tumblog-team09-web.vercel.app/)
+- (24.01 - 02) [FE] GDSC 2024 Solution Challenge - Litera sea
 
 
 ## 🛠 Stack
@@ -39,8 +41,10 @@
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<br>
 <img src="https://img.shields.io/badge/StyledComponent-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Emotion-F266B3?style=flat-square"/></a>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
@@ -49,10 +53,15 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jotai-262625?style=flat-square"/></a>
 <br>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<br>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 
 
 ![SujinKim1127's github stats](https://github-readme-stats.vercel.app/api?username=SujinKim1127&show_icons=true)
