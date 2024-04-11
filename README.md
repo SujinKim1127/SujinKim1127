@@ -21,17 +21,17 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/yourssu_friends/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 - (22.09 - 23.09) GDSC Soongsil 2기 Web/Mobile part member
-- (22.09 - 23.06) [FE] 대학생을 위한 행사 정보 공유 사이트 `끼리끼리`: http://kiriuniv.com/
+- (22.09 - 23.06) [FE] 대학생을 위한 행사 정보 공유 사이트 `끼리끼리`
 - (22.12 - 23.01) [FE] stackoverflow 클론 코딩
-- (23.01 - 23.02) [FE] 반려동물과 함께라면 어디든 갈 수 있는 [PAWPAW](https://pawpaw.fun)
+- (23.01 - 23.02) [FE] 반려동물과 함께라면 어디든 갈 수 있는 PAWPAW
 - (23.03 - ) [FE/BE] 마루 산책 기록 웹사이트 [walk with 마루](https://SujinKim1127.github.io/walkwithmaru)
 - (23.05 - ) [FE] 숭실대 커뮤니티 "[다잇슈](https://www.daitssu.com/)" 공지사항 · 구독 팀 / FrontEnd 팀장
-- (23.07 - 23.08) [FE] 서울 우먼 테크 해커톤 최우수상 수상 - 빗물받이 청소 커뮤니티: [두데이](https://doday-nu.vercel.app/)
+- (23.07 - 23.08) [FE] 서울 우먼 테크 해커톤 최우수상 수상 - 빗물받이 청소 커뮤니티: 두데이
 - (23.07 - ) [FE] GDSC Festival Project 숭실대 도서관 세미나실 예약 서비스 - [슈도비](https://ssudobi.web.app/landing/)
 - (23.09) [FE] Kustitms X HDMedi Corporate Prjoect
 - (23.09 - ) GDSC Soongsil 3기 Core Member
 - (23.10) [FE] Kusitms 28기 해커톤 - [모서리](https://mosori.vercel.app/)
-- (23.09 - 11) [FE] Kusitms 28기 밋업 - [제대로](https://jedero.site/)
+- (23.09 - 11) [FE] Kusitms 28기 밋업 - [제대로]
 - (24.01) [FE] GDSC 연합 해커톤 <눈꽃톤> - [Tumblog](https://tumblog-team09-web.vercel.app/)
 - (24.01 - 02) [FE] GDSC 2024 Solution Challenge - Litera sea
 
