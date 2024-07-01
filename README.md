@@ -4,36 +4,15 @@
 <a href="https://velog.io/@su_jin1127" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSujinKim1127&count_bg=%233D9EC8&title_bg=%23DDA25A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sj001127)](https://solved.ac/profile/sj001127)
 
-
-
-## 📚 Work experience 
-- (19.07 - 21.09) 숭실대학교 중앙동아리 YOURSSU 운영팀 <a href="https://play.google.com/store/apps/details?id=com.yourssu.ground">
-    <img 
-        src="http://img.shields.io/badge/-Google Play-brightgreen?style=flat&logo=googleplay&link=https://play.google.com/store/apps/details?id=com.yourssu.ground"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-- (20.08) [기획] 숭실대학교 글로벌미디어학부 해커톤 2등
-- (21.01) [기획] 숭실대학교 플렉스매스 창업아카데미 최우수팀 수상
-- (21.02 - 21.09) [FE] 대학생들을 위한 맞춤형 학점 이수 계획 시간표 제공 웹사이트 : https://github.com/gracurri
-- (21.02 - 21.09) [기획] YOURSSU 캐릭터 인스타그램 관리자 : <a href="https://www.instagram.com/yourssu_friends">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/yourssu_friends/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-- (22.09 - 23.09) GDSC Soongsil 2기 Web/Mobile part member
-- (22.09 - 23.06) [FE] 대학생을 위한 행사 정보 공유 사이트 `끼리끼리`
-- (22.12 - 23.01) [FE] stackoverflow 클론 코딩
-- (23.01 - 23.02) [FE] 반려동물과 함께라면 어디든 갈 수 있는 PAWPAW
-- (23.03 - ) [FE/BE] 마루 산책 기록 웹사이트 [walk with 마루](https://SujinKim1127.github.io/walkwithmaru)
-- (23.05 - ) [FE] 숭실대 커뮤니티 "[다잇슈](https://www.daitssu.com/)" 공지사항 · 구독 팀 / FrontEnd 팀장
-- (23.07 - 23.08) [FE] 서울 우먼 테크 해커톤 최우수상 수상 - 빗물받이 청소 커뮤니티: 두데이
-- (23.07 - ) [FE] GDSC Festival Project 숭실대 도서관 세미나실 예약 서비스 - [슈도비](https://ssudobi.web.app/landing/)
-- (23.09) [FE] Kustitms X HDMedi Corporate Prjoect
-- (23.09 - ) GDSC Soongsil 3기 Core Member
-- (23.10) [FE] Kusitms 28기 해커톤 - [모서리](https://mosori.vercel.app/)
-- (23.09 - 11) [FE] Kusitms 28기 밋업 - [제대로]
-- (24.01) [FE] GDSC 연합 해커톤 <눈꽃톤> - [Tumblog](https://tumblog-team09-web.vercel.app/)
-- (24.01 - 02) [FE] GDSC 2024 Solution Challenge - Litera sea
+## 🌐 Organizations
+| 활동 기간 | 소속 |
+| --- | --- |
+| 2019.07 - 2021.09 | 숭실대학교 중앙동아리 YOURSSU 운영팀 |
+| 2022.09 - 2023.09 | Google Developer Student Clubs Soongsil 2기 Web/Mobile part member |
+| 2023.09 - 2023.12 | 대학생 IT 연합동아리 Kusitms 28기 Web Frontend |
+| 2023.11 - 2024.08 | Google Developer Student Clubs Soongsil 3기 Core member |
+| 2024.07 - 2024.08 | DND 11기 Frontend |
 
 
 ## 🛠 Stack
@@ -66,7 +45,6 @@
 <br>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-
 
 ![SujinKim1127's github stats](https://github-readme-stats.vercel.app/api?username=SujinKim1127&show_icons=true)
 
