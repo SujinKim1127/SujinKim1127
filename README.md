@@ -17,7 +17,7 @@
 ## 💼 Work Experience
   | 활동 기간 | 소속 |
   | --- | --- |
-  | 2024.09 - current | [연합인포맥스](https://news.einfomax.co.kr/index.html?editcode=MAIN_35) 프론트엔드 인턴 |
+  | 2024.09 - 2025.09 | [연합인포맥스](https://news.einfomax.co.kr/index.html?editcode=MAIN_35) 프론트엔드 인턴 |
 
 
 ## 📁 ETC  
