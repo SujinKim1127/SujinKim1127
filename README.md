@@ -18,6 +18,7 @@
   | 활동 기간 | 소속 |
   | --- | --- |
   | 2024.09 - 2025.09 | [연합인포맥스](https://news.einfomax.co.kr/index.html?editcode=MAIN_35) 프론트엔드 인턴 |
+  | 2025.12 | [POSTYPE]([https://news.einfomax.co.kr/index.html?editcode=MAIN_35](https://www.postype.com/)) 프론트엔드 엔지니어 |
 
 
 ## 📁 ETC  
