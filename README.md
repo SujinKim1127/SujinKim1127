@@ -1,7 +1,7 @@
 # 수진 👩🏻‍💻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSujinKim1127&count_bg=%233D96C8&title_bg=%23DCF7FF&icon=&icon_color=%23C6EAFF&title=%E2%98%81%EF%B8%8F&edge_flat=false)](https://hits.seeyoufarm.com)
-  <a href="https://www.acmicpc.net/user/sj001127">
+[![☁️](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FSujinKim1127?color=blue&label=%E2%98%81%EF%B8%8F&size=small)](https://myhits.vercel.app)
+<a href="https://www.acmicpc.net/user/sj001127">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sj001127" />
   </a>
   
